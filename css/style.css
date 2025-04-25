@@ -5,3 +5,7 @@ body {
 	box-sizing: border-box;
 	font-family: "Geist Mono", monospace;
 }
+
+h1 {
+	font-weight: 900;
+}
