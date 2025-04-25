@@ -19,8 +19,18 @@ h1 {
 }
 
 .ctaBtn:hover {
-	background-color: #000;
-	color: #fff;
+	position: absolute;
+	margin-top: 1px;
+	margin-left: 1px;
 	box-shadow: none;
 	cursor: pointer;
+}
+
+.sectionWidth {
+	width: 100%;
+}
+
+.hero {
+	max-width: 1000px;
+	margin: auto;
 }
